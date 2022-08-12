@@ -64,7 +64,7 @@
                         <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                             <div class="pr-12">
                                 <h1 class="text-white font-semibold text-6xl">
-                                    BANDAR JENGKA
+                                    JENGKA WONDERLAND
                                 </h1><br>
                                 <p class="text-white">Book Tickets Now!</p>
                             </div>
